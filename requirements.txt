@@ -1,0 +1,13 @@
+pytesseract
+Pillow
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-pinecone
+python-dotenv
+pypdf
+faiss-cpu
+sentence-transformers
